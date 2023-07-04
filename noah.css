@@ -1,0 +1,35 @@
+h1{
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    text-align :center;
+   
+}
+h2{
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    color :black;
+    background : white;
+    text-align:center;
+
+}
+p {
+    text-align:left;
+
+}
+img {
+    width : 400px;
+    height : 400px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#Second {
+    color : black;
+    background : yellow;
+    margin : 50px 50px 50px 50px;
+    border : 50px 50px 50px 50px;
+    padding : 50px 50px 50px 50px;
+}
